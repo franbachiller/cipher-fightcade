@@ -1,0 +1,15 @@
+return {
+  { starter = "HP", follow = "xflat", kind = "sa2", t = {1,5,2,4}, dmg = 14, solo = 16, adv = -9, pt = {0} },
+  { starter = "HP", follow = "axe_LP", kind = "special", t = {1,2}, dmg = 14, solo = 16, adv = -9, pt = {0} },
+  { starter = "HP", follow = "ndl_HP", kind = "special", t = {1,2}, dmg = 14, solo = 16, adv = -9, pt = {0} },
+  { starter = "HP", follow = "axe_MP", kind = "special", t = {1,2}, dmg = 14, solo = 16, adv = -9, pt = {0} },
+  { starter = "HP", follow = "ndl_MP", kind = "special", t = {1,2}, dmg = 14, solo = 16, adv = -9, pt = {0} },
+  { starter = "HP", follow = "axe_EXP", kind = "special", t = {1,2}, dmg = 14, solo = 16, adv = -9, pt = {0} },
+  { starter = "HP", follow = "dra_EXK", kind = "special", t = {1,2}, dmg = 14, solo = 16, adv = -9, pt = {0} },
+  { starter = "HP", follow = "dra_LK", kind = "special", t = {1,2}, dmg = 14, solo = 16, adv = -9, pt = {0} },
+  { starter = "HP", follow = "dra_HK", kind = "special", t = {1,2}, dmg = 14, solo = 16, adv = -9, pt = {0} },
+  { starter = "HP", follow = "dra_MK", kind = "special", t = {1,2}, dmg = 14, solo = 16, adv = -9, pt = {0} },
+  { starter = "HP", follow = "ndl_EXP", kind = "special", t = {1,2}, dmg = 14, solo = 16, adv = -9, pt = {0} },
+  { starter = "HP", follow = "axe_HP", kind = "special", t = {1,2}, dmg = 14, solo = 16, adv = -9, pt = {0} },
+  { starter = "HP", follow = "ndl_LP", kind = "special", t = {1,2}, dmg = 14, solo = 16, adv = -9, pt = {0} },
+}

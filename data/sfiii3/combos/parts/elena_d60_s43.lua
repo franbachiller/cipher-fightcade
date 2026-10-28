@@ -1,0 +1,16 @@
+return {
+  { starter = "d_MP", follow = "scratch_wheel_LK", kind = "special", t = {7,9,11,13,15,17,19,21,6,8,10,12,14,16,18,20}, dmg = 30, solo = 13, adv = -3, pt = {0} },
+  { starter = "d_MP", follow = "rhino_horn_EXK", kind = "special", t = {7,9,11,13,15,6,8,10,12,14,16}, dmg = 43, solo = 13, adv = -3, pt = {0} },
+  { starter = "d_MP", follow = "lynx_tail_EXK", kind = "special", t = {7,9,11,13,15,17,6,8,10,12,14,16,18}, dmg = 31, solo = 13, adv = -3, pt = {0} },
+  { starter = "d_MP", follow = "brave_dance", kind = "sa2", t = {7,9,11,13,15,17,19,21,6,8,10,12,14,16,18,20,22}, dmg = 61, solo = 13, adv = -3, pt = {0} },
+  { starter = "d_MP", follow = "lynx_tail_LK", kind = "special", t = {7,9,11,13,15,6,8,10,12,14,16}, dmg = 21, solo = 13, adv = -3, pt = {0} },
+  { starter = "d_MP", follow = "scratch_wheel_HK", kind = "special", t = {6,7,8,9,10,11,12,13,14,15,16,17,18,19,20}, dmg = 18, solo = 13, adv = -3, pt = {0} },
+  { starter = "d_MP", follow = "scratch_wheel_EXK", kind = "special", t = {7,9,11,13,15,17,6,8,10,12,14,16,18}, dmg = 18, solo = 13, adv = -3, pt = {0} },
+  { starter = "d_MP", follow = "spin_sides_EXK", kind = "special", t = {7,9,11,13,15,17,6,8,10,14,16,18}, dmg = 39, solo = 13, adv = -3, pt = {0} },
+  { starter = "d_MP", follow = "scratch_wheel_MK", kind = "special", t = {6,7,8,9,10,11,12,13,14,15,16,17,18,19,20}, dmg = 21, solo = 13, adv = -3, pt = {0} },
+  { starter = "LP", follow = "scratch_wheel_LK", kind = "special", t = {5,7,9,11,13,6,8,10,12}, dmg = 23, solo = 5, adv = -35, pt = {0} },
+  { starter = "LP", follow = "brave_dance", kind = "sa2", t = {5,7,9,11,13,6,8,10,12}, dmg = 59, solo = 5, adv = -35, pt = {0} },
+  { starter = "LP", follow = "scratch_wheel_MK", kind = "special", t = {5,6,7,8,9,10,11,12,13}, dmg = 25, solo = 5, adv = -35, pt = {0} },
+  { starter = "LP", follow = "scratch_wheel_EXK", kind = "special", t = {5,7,9,11,13,6,8,10,12}, dmg = 34, solo = 5, adv = -35, pt = {0} },
+  { starter = "LP", follow = "scratch_wheel_HK", kind = "special", t = {5,6,7,8,9,10,11,12,13}, dmg = 27, solo = 5, adv = -35, pt = {0} },
+}

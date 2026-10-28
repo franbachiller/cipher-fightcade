@@ -1,0 +1,16 @@
+return {
+  { starter = "b_LK", follow = "rising_cobra_LK", kind = "special", t = {15,14}, dmg = 11, solo = 6, adv = -6, pt = {0} },
+  { starter = "b_LK", follow = "denji_blast_MP", kind = "special", t = {3,4,5,6,7,8,9,10,11}, dmg = 30, solo = 6, adv = -6, pt = {0} },
+  { starter = "b_LK", follow = "electric_snake", kind = "sa3", t = {7,9,11,13,6,8,10,12}, dmg = 45, solo = 6, adv = -6, pt = {0} },
+  { starter = "b_LK", follow = "tornado_hook_EXP", kind = "special", t = {5,7,9,11,4,6,8,10}, dmg = 38, solo = 6, adv = -6, pt = {0} },
+  { starter = "b_LK", follow = "snake_fang_LK", kind = "special", t = {15,14}, dmg = 11, solo = 6, adv = -6, pt = {0} },
+  { starter = "b_LK", follow = "tornado_hook_LP", kind = "special", t = {5,7,9,11,13,4,6,8,10,12}, dmg = 22, solo = 6, adv = -6, pt = {0} },
+  { starter = "b_LK", follow = "denji_blast_LP", kind = "special", t = {3,5,7,9,11,4,6,8,10,12}, dmg = 14, solo = 6, adv = -6, pt = {0} },
+  { starter = "b_MK", follow = "tornado_hook_EXP", kind = "special", t = {5,7,9,11,13,15,17,6,8,10,12,14,16,18}, dmg = 40, solo = 11, adv = -4, pt = {0} },
+  { starter = "b_MK", follow = "denji_blast_MP", kind = "special", t = {5,6,7,8,9,10,11,12,13,14,15,16,17,18}, dmg = 33, solo = 11, adv = -4, pt = {0} },
+  { starter = "b_MK", follow = "tornado_hook_LP", kind = "special", t = {5,7,9,11,13,15,17,6,8,10,12,14,16,18}, dmg = 26, solo = 11, adv = -4, pt = {0} },
+  { starter = "b_MK", follow = "electric_snake", kind = "sa3", t = {7,9,11,13,15,17,21,23,6,8,10,12,14,16,18,22,24}, dmg = 47, solo = 11, adv = -4, pt = {0} },
+  { starter = "b_MK", follow = "denji_blast_LP", kind = "special", t = {5,7,9,11,13,15,17,6,8,10,12,14,16,18}, dmg = 19, solo = 11, adv = -4, pt = {0} },
+  { starter = "b_MK", follow = "denji_blast_HP", kind = "special", t = {5,7,9,11,13,15,6,8,10,12,14,16}, dmg = 19, solo = 11, adv = -4, pt = {0} },
+  { starter = "b_MK", follow = "tornado_hook_MP", kind = "special", t = {5,6,7,8,9,10,11,12,13,14,15,16,17}, dmg = 27, solo = 11, adv = -4, pt = {0} },
+}

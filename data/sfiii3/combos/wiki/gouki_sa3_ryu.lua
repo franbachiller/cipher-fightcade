@@ -1,0 +1,22 @@
+-- generado por tools/wiki_combo_lab.lua (gouki_sa3_ryu): combos de la wiki verificados en emulador
+return {
+  { text = "cl.MK xx tatsumaki:HK xx SA", ok = false, d = 42, sa = 3, dmg = 34, hits = 4, done = 2, t = {0,9}, win = {1,12}, pre = 0 },
+  { text = "2MK xx tatsumaki:HK xx SA", ok = false, d = 55, sa = 3, dmg = 31, hits = 4, done = 2, t = {0,8}, win = {1,6}, pre = 0 },
+  { text = "cl.HP xx goshoryuken:HP xx SA", ok = true, d = 42, sa = 3, dmg = 54, hits = 13, done = 3, t = {0,10,29}, win = {1,14,1}, pre = 0 },
+  { text = "cl.HP xx tatsumaki:LK, goshoryuken:HP xx SA", ok = false, d = 42, sa = 3, dmg = 53, hits = 5, done = 3, t = {0,10,60}, win = {1,14,4}, pre = 0 },
+  { text = "cl.MK xx tatsumaki:LK, goshoryuken:HP xx SA", ok = false, d = 42, sa = 3, dmg = 50, hits = 5, done = 3, t = {0,10,57}, win = {1,13,4}, pre = 0 },
+  { text = "cl.HP xx tatsumaki:LK, tatsumaki:HK xx SA", ok = true, d = 42, sa = 3, dmg = 61, hits = 13, done = 4, t = {0,10,59,66}, win = {1,14,5,3}, pre = 0 },
+  { text = "cl.HP xx tatsumaki:LK, cl.LP xx goshoryuken:HP xx SA", ok = false, d = 42, sa = 3, dmg = 35, hits = 3, done = 3, t = {0,10,59}, win = {1,14,3}, pre = 0 },
+  { text = "cl.MK xx tatsumaki:MK, goshoryuken:MP xx SA", ok = false, d = 36, sa = 3, dmg = 49, hits = 5, done = 3, t = {0,10,64}, win = {1,13,2}, pre = 0 },
+  { text = "2MK xx SA", ok = true, d = 55, sa = 3, dmg = 56, hits = 12, done = 2, t = {0,10}, win = {1,9}, pre = 0 },
+  { text = "cl.HP xx SA", ok = false, d = 42, sa = 3, dmg = 19, hits = 1, done = 1, t = {0}, win = {1}, pre = 0 },
+  { text = "cl.MP xx SA", ok = true, d = 42, sa = 3, dmg = 65, hits = 13, done = 2, t = {0,10}, win = {1,10}, pre = 0 },
+  { text = "cl.MK xx SA", ok = true, d = 42, sa = 3, dmg = 59, hits = 12, done = 2, t = {0,16}, win = {1,1}, pre = 0 },
+  { text = "2MP xx SA", ok = true, d = 45, sa = 3, dmg = 66, hits = 12, done = 2, t = {0,23}, win = {1,2}, pre = 0 },
+  { text = "2LK > 2LK xx SA", ok = true, d = 45, sa = 3, dmg = 51, hits = 13, done = 3, t = {0,10,21}, win = {1,10,8}, pre = 0 },
+  { text = "2LK > 2LP > 2LK xx SA", ok = false, d = 42, sa = 3, dmg = 5, hits = 3, done = 3, t = {0,11,22}, win = {1,11,10}, pre = 0 },
+  { text = "2LP > 2LP xx SA", ok = true, d = 42, sa = 3, dmg = 51, hits = 13, done = 3, t = {0,10,20}, win = {1,11,9}, pre = 0 },
+  { text = "UOH, SA", ok = false, d = 45, sa = 3, dmg = 5, hits = 1, done = 1, t = {0}, win = {1}, pre = 0 },
+  { text = "2HP xx SA", ok = false, d = 45, sa = 3, dmg = 19, hits = 1, done = 1, t = {0}, win = {1}, pre = 0 },
+  { text = "5MP xx SA", ok = true, d = 60, sa = 3, dmg = 65, hits = 13, done = 2, t = {0,10}, win = {1,10}, pre = 0 },
+}

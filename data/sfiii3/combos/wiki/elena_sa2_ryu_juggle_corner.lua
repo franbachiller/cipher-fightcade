@@ -1,0 +1,21 @@
+-- generado por tools/juggle_lab.lua (elena_sa2_ryu_juggle_corner): combos largos / juggles verificados en emulador
+return {
+  { text = "2MP xx SA, SA", ok = true, d = 45, sa = 2, dmg = 73, hits = 12, done = 3, t = {0,10,217}, win = {1,9,6}, pre = 0, jug = 1, corner = true },
+  { text = "2MP xx SA, scratch_wheel:MK", ok = true, d = 45, sa = 2, dmg = 68, hits = 12, done = 3, t = {0,10,215}, win = {1,9,2}, pre = 0, jug = 1, corner = true },
+  { text = "2MP xx scratch_wheel:HK xx SA, SA", ok = true, d = 45, sa = 2, dmg = 69, hits = 13, done = 4, t = {0,11,23,228}, win = {1,12,9,6}, pre = 0, jug = 1, corner = true },
+  { text = "2MP xx scratch_wheel:HK xx SA, scratch_wheel:MK", ok = true, d = 45, sa = 2, dmg = 66, hits = 13, done = 4, t = {0,11,23,226}, win = {1,12,9,2}, pre = 0, jug = 1, corner = true },
+  { text = "cl.MP xx SA, SA", ok = true, d = 42, sa = 2, dmg = 65, hits = 12, done = 3, t = {0,11,212}, win = {1,2,5}, pre = 0, jug = 1, corner = true },
+  { text = "cl.MP xx SA, scratch_wheel:MK", ok = true, d = 42, sa = 2, dmg = 60, hits = 12, done = 3, t = {0,11,210}, win = {1,2,2}, pre = 0, jug = 1, corner = true },
+  { text = "cl.MP xx scratch_wheel:EXK xx SA, scratch_wheel:MK", ok = true, d = 42, sa = 2, dmg = 59, hits = 13, done = 4, t = {0,8,17,219}, win = {1,6,7,2}, pre = 0, jug = 1, corner = true },
+  { text = "cl.MP xx spin_sides:EXK, scratch_wheel:LK, SA", ok = true, d = 42, sa = 2, dmg = 51, hits = 8, done = 4, t = {0,9,94,145}, win = {1,7,4,3}, pre = 0, jug = 1, corner = true },
+  { text = "cl.MP xx spin_sides:EXK, spin_sides:MK, SA", ok = true, d = 42, sa = 2, dmg = 50, hits = 8, done = 4, t = {0,9,89,167}, win = {1,7,1,14}, pre = 0, jug = 1, corner = true },
+  { text = "cl.MP xx spin_sides:EXK, spin_sides:MK, scratch_wheel:LK", ok = true, d = 42, sa = 2, dmg = 59, hits = 8, done = 4, t = {0,9,89,164}, win = {1,7,1,8}, pre = 0, jug = 1, corner = true },
+  { text = "cl.MP xx spin_sides:EXK, spin_sides:MK, scratch_wheel:MK", ok = true, d = 42, sa = 2, dmg = 60, hits = 9, done = 4, t = {0,9,89,168}, win = {1,7,1,4}, pre = 0, jug = 1, corner = true },
+  { text = "cl.MP xx spin_sides:EXK, spin_sides:MK, scratch_wheel:HK", ok = true, d = 42, sa = 2, dmg = 53, hits = 9, done = 4, t = {0,9,89,167}, win = {1,7,1,2}, pre = 0, jug = 1, corner = true },
+  { text = "cl.MP xx spin_sides:EXK, spin_sides:MK, scratch_wheel:EXK", ok = true, d = 42, sa = 2, dmg = 56, hits = 10, done = 4, t = {0,9,89,168}, win = {1,7,1,3}, pre = 0, jug = 1, corner = true },
+  { text = "cl.MP xx spin_sides:EXK, spin_sides:MK, rhino_horn:EXK", ok = true, d = 42, sa = 2, dmg = 53, hits = 9, done = 4, t = {0,9,89,161}, win = {1,7,1,2}, pre = 0, jug = 1, corner = true },
+  { text = "cl.MP xx spin_sides:EXK, spin_sides:MK, spin_sides:EXK", ok = true, d = 42, sa = 2, dmg = 57, hits = 9, done = 4, t = {0,9,89,163}, win = {1,7,1,3}, pre = 0, jug = 1, corner = true },
+  { text = "cl.MP xx spin_sides:EXK, spin_sides:MK, 2HP", ok = true, d = 42, sa = 2, dmg = 50, hits = 8, done = 4, t = {0,9,89,165}, win = {1,7,1,5}, pre = 0, jug = 1, corner = true },
+  { text = "cl.MP xx spin_sides:EXK, spin_sides:MK, 5HK", ok = true, d = 42, sa = 2, dmg = 51, hits = 8, done = 4, t = {0,9,89,163}, win = {1,7,1,3}, pre = 0, jug = 1, corner = true },
+  { text = "cl.MP xx spin_sides:EXK, spin_sides:MK, 5MK", ok = true, d = 42, sa = 2, dmg = 48, hits = 8, done = 4, t = {0,9,89,164}, win = {1,7,1,6}, pre = 0, jug = 1, corner = true },
+}

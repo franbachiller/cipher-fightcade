@@ -1,0 +1,18 @@
+return {
+  { starter = "cl_MP", follow = "dragon_smash_LP", kind = "special", t = {5,7,9,11,13,15,4,6,8,10,12,14,16}, dmg = 30, solo = 13, adv = -4, pt = {0} },
+  { starter = "cl_MP", follow = "dragon_smash_MP", kind = "special", t = {4,5,6,7,8,9,10,11,12,13,14,15,16}, dmg = 30, solo = 13, adv = -4, pt = {0} },
+  { starter = "cl_MP", follow = "shoryu_cannon", kind = "sa2", t = {5,7,9,11,13,15,6,8,10,12,14,16}, dmg = 39, solo = 13, adv = -4, pt = {0} },
+  { starter = "cl_MP", follow = "tornado_EXK", kind = "special", t = {5,7,9,11,13,15,4,6,8,10,12,14,16}, dmg = 35, solo = 13, adv = -4, pt = {0} },
+  { starter = "cl_MP", follow = "dragon_smash_EXP", kind = "special", t = {5,7,9,11,13,15,4,6,8,10,12,14,16}, dmg = 25, solo = 13, adv = -4, pt = {0} },
+  { starter = "cl_MP", follow = "dragon_smash_HP", kind = "special", t = {4,5,6,7,8,9,10,11,12,13,14,15,16}, dmg = 30, solo = 13, adv = -4, pt = {0} },
+  { starter = "cl_MP", follow = "tornado_LK", kind = "special", t = {5,7,9,11,13,15,4,6,8,10,12,14}, dmg = 25, solo = 13, adv = -4, pt = {0} },
+  { starter = "d_LP", follow = "ryuubikyaku_LK", kind = "special", t = {15,14}, dmg = 5, solo = 2, adv = 2, pt = {0} },
+  { starter = "d_LP", follow = "tornado_LK", kind = "special", t = {15,14}, dmg = 5, solo = 2, adv = 2, pt = {0} },
+  { starter = "d_LP", follow = "dragon_smash_LP", kind = "special", t = {5,7,9,11,13,15,4,6,8,10,12,14}, dmg = 20, solo = 2, adv = 2, pt = {0} },
+  { starter = "d_LP", follow = "LP", kind = "link", t = {16}, dmg = 4, solo = 2, adv = 2, pt = {0} },
+  { starter = "d_LP", follow = "dragon_smash_MP", kind = "special", t = {4,5,6,7,8,9,10,11,12}, dmg = 20, solo = 2, adv = 2, pt = {0} },
+  { starter = "d_LP", follow = "shoryu_cannon", kind = "sa2", t = {5,7,9,11,13,15,6,8,10,12,14,16}, dmg = 32, solo = 2, adv = 2, pt = {0} },
+  { starter = "d_LP", follow = "roll_LP", kind = "special", t = {15,14,16}, dmg = 4, solo = 2, adv = 2, pt = {0} },
+  { starter = "d_LP", follow = "dragon_smash_EXP", kind = "special", t = {5,7,9,11,4,6,8,10,12}, dmg = 27, solo = 2, adv = 2, pt = {0} },
+  { starter = "d_LP", follow = "sean_tackle_LP", kind = "special", t = {5,15,14,16}, dmg = 4, solo = 2, adv = 2, pt = {0} },
+}

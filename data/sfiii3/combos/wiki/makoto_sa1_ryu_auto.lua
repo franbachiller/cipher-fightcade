@@ -1,0 +1,22 @@
+-- generado por tools/wiki_combo_lab.lua (makoto_sa1_ryu_auto): combos de la wiki verificados en emulador
+return {
+  { text = "2LP, 2LP xx hayate:LP", ok = true, d = 60, sa = 1, dmg = 18, hits = 2, done = 3, t = {0,11,20}, win = {1,11,5}, pre = 0 },
+  { text = "5LP, 5LP, 5LK xx hayate:LP", ok = false, d = 60, sa = 1, dmg = 4, hits = 1, done = 1, t = {0}, win = {1}, pre = 0 },
+  { text = "2LK xx hayate:LP", ok = true, d = 60, sa = 1, dmg = 18, hits = 2, done = 2, t = {0,7}, win = {1,8}, pre = 0 },
+  { text = "2MP xx hayate:HP", ok = true, d = 60, sa = 1, dmg = 23, hits = 2, done = 2, t = {0,15}, win = {1,6}, pre = 0 },
+  { text = "5MP, 5LK xx hayate:LP", ok = true, d = 60, sa = 1, dmg = 29, hits = 3, done = 3, t = {0,25,33}, win = {1,3,10}, pre = 0 },
+  { text = "karakusa:LK, 5HP xx hayate:MP", ok = false, d = 60, sa = 1, dmg = 5, hits = 1, done = 1, t = {0}, win = {1}, pre = 0 },
+  { text = "tsurugi:MK, 5LK xx hayate:LP", ok = false, d = 60, sa = 1, dmg = 13, hits = 1, done = 1, t = {0}, win = {1}, pre = 0 },
+  { text = "tsurugi:MK, 2MP xx hayate:HP", ok = false, d = 60, sa = 1, dmg = 13, hits = 1, done = 1, t = {0}, win = {1}, pre = 0 },
+  { text = "5LP, 5LK, hayate:LP xx SA", ok = true, d = 60, sa = 1, dmg = 23, hits = 3, done = 4, t = {0,15,23,31}, win = {1,3,10,1}, pre = 0 },
+  { text = "2LP, 2LP xx SA", ok = true, d = 60, sa = 1, dmg = 73, hits = 7, done = 3, t = {0,11,21}, win = {1,11,8}, pre = 0 },
+  { text = "2LK xx SA", ok = true, d = 60, sa = 1, dmg = 73, hits = 6, done = 2, t = {0,10}, win = {1,9}, pre = 0 },
+  { text = "2MK xx SA", ok = true, d = 60, sa = 1, dmg = 76, hits = 6, done = 2, t = {0,26}, win = {1,4}, pre = 0 },
+  { text = "2MP xx SA", ok = true, d = 60, sa = 1, dmg = 73, hits = 6, done = 2, t = {0,10}, win = {1,8}, pre = 0 },
+  { text = "tsurugi:MK xx SA", ok = false, d = 60, sa = 1, dmg = 13, hits = 1, done = 1, t = {0}, win = {1}, pre = 0 },
+  { text = "5LK > 5MK", ok = true, d = 60, sa = 1, dmg = 14, hits = 2, done = 2, t = {0,9}, win = {1,10}, pre = 0 },
+  { text = "6MK > 5HK", ok = false, d = 60, sa = 1, dmg = 14, hits = 1, done = 1, t = {0}, win = {1}, pre = 0 },
+  { text = "5LK, 5MK", ok = true, d = 60, sa = 1, dmg = 14, hits = 2, done = 2, t = {0,9}, win = {1,10}, pre = 0 },
+  { text = "6MK, 5HK", ok = false, d = 60, sa = 1, dmg = 14, hits = 1, done = 1, t = {0}, win = {1}, pre = 0 },
+  { text = "6HP, 5HP, 5HP", ok = false, d = 60, sa = 1, dmg = 26, hits = 3, done = 2, t = {0,24}, win = {1,16}, pre = 0 },
+}

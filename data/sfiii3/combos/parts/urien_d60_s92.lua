@@ -1,0 +1,18 @@
+return {
+  { starter = "f_HP", follow = "aegis_reflector_HP", kind = "sa3", t = {1,2,4,5}, dmg = 15, solo = 17, adv = -8, pt = {0} },
+  { starter = "f_HP", follow = "metallic_sphere_LP", kind = "special", t = {1,2}, dmg = 15, solo = 17, adv = -8, pt = {0} },
+  { starter = "f_HP", follow = "metallic_sphere_MP", kind = "special", t = {1,2}, dmg = 15, solo = 17, adv = -8, pt = {0} },
+  { starter = "f_HP", follow = "aegis_reflector_MP", kind = "sa3", t = {1,2,4,5}, dmg = 15, solo = 17, adv = -8, pt = {0} },
+  { starter = "f_HP", follow = "aegis_reflector_EXP", kind = "sa3", t = {1,5,2,4}, dmg = 15, solo = 17, adv = -8, pt = {0} },
+  { starter = "f_HP", follow = "metallic_sphere_EXP", kind = "special", t = {1,2}, dmg = 15, solo = 17, adv = -8, pt = {0} },
+  { starter = "f_HP", follow = "aegis_reflector_LP", kind = "sa3", t = {1,5,2,4}, dmg = 15, solo = 17, adv = -8, pt = {0} },
+  { starter = "f_HP", follow = "metallic_sphere_HP", kind = "special", t = {1,2}, dmg = 15, solo = 17, adv = -8, pt = {0} },
+  { starter = "HP", follow = "aegis_reflector_HP", kind = "sa3", t = {1,2,4,5}, dmg = 15, solo = 19, adv = -5, pt = {0} },
+  { starter = "HP", follow = "metallic_sphere_LP", kind = "special", t = {1,2}, dmg = 15, solo = 19, adv = -5, pt = {0} },
+  { starter = "HP", follow = "metallic_sphere_MP", kind = "special", t = {1,2}, dmg = 15, solo = 19, adv = -5, pt = {0} },
+  { starter = "HP", follow = "aegis_reflector_MP", kind = "sa3", t = {1,2,4,5}, dmg = 15, solo = 19, adv = -5, pt = {0} },
+  { starter = "HP", follow = "aegis_reflector_EXP", kind = "sa3", t = {1,5,2,4}, dmg = 15, solo = 19, adv = -5, pt = {0} },
+  { starter = "HP", follow = "metallic_sphere_EXP", kind = "special", t = {1,2}, dmg = 15, solo = 19, adv = -5, pt = {0} },
+  { starter = "HP", follow = "aegis_reflector_LP", kind = "sa3", t = {1,5,2,4}, dmg = 15, solo = 19, adv = -5, pt = {0} },
+  { starter = "HP", follow = "metallic_sphere_HP", kind = "special", t = {1,2}, dmg = 15, solo = 19, adv = -5, pt = {0} },
+}

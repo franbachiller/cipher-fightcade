@@ -1,0 +1,15 @@
+return {
+  { starter = "d_MK", follow = "shoryuken_LP", kind = "special", t = {7,9,11,13,15,17,19,6,8,10,12,14,16,18}, dmg = 32, solo = 12, adv = -4, pt = {0} },
+  { starter = "d_MK", follow = "tatsumaki_EXK", kind = "special", t = {7,9,11,13,15,17,19,6,8,10,14,16,18}, dmg = 39, solo = 12, adv = -4, pt = {0} },
+  { starter = "d_MK", follow = "hadouken_LP", kind = "special", t = {7,9,11,13,15,6,8,10,14,16}, dmg = 20, solo = 12, adv = -4, pt = {0} },
+  { starter = "d_MK", follow = "hadouken_HP", kind = "special", t = {6,7,8,9,10,11,13,14,15,16}, dmg = 20, solo = 12, adv = -4, pt = {0} },
+  { starter = "d_MK", follow = "shoryuken_MP", kind = "special", t = {6,7,8,9,10,11,12,13,14,15,16,17,18,19}, dmg = 34, solo = 12, adv = -4, pt = {0} },
+  { starter = "d_MK", follow = "tatsumaki_LK", kind = "special", t = {7,9,11,13,15,17,19,6,8,10,14,16,18}, dmg = 26, solo = 12, adv = -4, pt = {0} },
+  { starter = "d_MK", follow = "shippu", kind = "sa3", t = {7,9,11,13,17,19,6,8,10,12,14,16,18}, dmg = 49, solo = 12, adv = -4, pt = {0} },
+  { starter = "d_MK", follow = "tatsumaki_HK", kind = "special", t = {6,7,8,9,10,11,13,14,15,16,17,18,19}, dmg = 32, solo = 12, adv = -4, pt = {0} },
+  { starter = "d_MK", follow = "hadouken_MP", kind = "special", t = {6,7,8,9,10,11,13,14,15,16}, dmg = 20, solo = 12, adv = -4, pt = {0} },
+  { starter = "d_MK", follow = "tatsumaki_MK", kind = "special", t = {6,7,8,9,10,11,13,14,15,16,17,18,19}, dmg = 29, solo = 12, adv = -4, pt = {0} },
+  { starter = "d_MK", follow = "hadouken_EXP", kind = "special", t = {7,9,11,13,15,17,6,8,10,14,16}, dmg = 27, solo = 12, adv = -4, pt = {0} },
+  { starter = "d_MK", follow = "shoryuken_EXP", kind = "special", t = {7,9,11,13,15,17,19,6,8,10,12,14,16,18}, dmg = 38, solo = 12, adv = -4, pt = {0} },
+  { starter = "d_MK", follow = "shoryuken_HP", kind = "special", t = {6,7,8,9,10,11,12,13,14,15,16,17,18,19}, dmg = 36, solo = 12, adv = -4, pt = {0} },
+}

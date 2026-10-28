@@ -1,0 +1,16 @@
+return {
+  "5LP > 5MP, metallic_sphere:MP",
+  "5LP > 5MP, cl.HP",
+  "5LP > 5MP, 5HP",
+  "5LP > 5MP, 5HK",
+  "5LP > 5MP, metallic_sphere:LP",
+  "5LP > 5MP, metallic_sphere:EXP",
+  "5LP > 5MP, 5MK",
+  "5LP > 5MP, 2HP",
+  "metallic_sphere:EXP xx SA",
+  "metallic_sphere:MP xx SA",
+  "5LP > 5MP, metallic_sphere:HP",
+  "metallic_sphere:LP xx SA",
+  "metallic_sphere:HP xx SA",
+  "5LP > 5MP, SA",
+}

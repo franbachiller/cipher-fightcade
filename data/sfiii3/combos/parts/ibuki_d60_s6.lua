@@ -1,0 +1,15 @@
+return {
+  { starter = "f_LK", follow = "tsumuji_LK", kind = "special", t = {7,9,11,13,15,17,6,8,10,12,14,16}, dmg = 4, solo = 2, adv = -10, pt = {0} },
+  { starter = "f_LK", follow = "kasumigake_LK", kind = "special", t = {7,9,11,13,15,17,6,8,10,12,14,16}, dmg = 4, solo = 2, adv = -10, pt = {0} },
+  { starter = "MK", follow = "tsumuji_LK", kind = "special", t = {5,7,9,11,13,15,17,19,6,8,10,12,14,16,18,20}, dmg = 28, solo = 14, adv = -8, pt = {0} },
+  { starter = "MK", follow = "kazekiri_MK", kind = "special", t = {5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20}, dmg = 31, solo = 14, adv = -8, pt = {0} },
+  { starter = "MK", follow = "raida_HP", kind = "special", t = {5,7,9,11,13,15,17,19,6,8,10,12,14,16,18,20}, dmg = 38, solo = 14, adv = -8, pt = {0} },
+  { starter = "MK", follow = "tsumuji_HK", kind = "special", t = {5,6,7,8,9,10,11,12,13,14,15,16,17}, dmg = 40, solo = 14, adv = -8, pt = {0} },
+  { starter = "MK", follow = "tsumuji_MK", kind = "special", t = {5,6,7,8,9,10,11,12,13,14,15,16,17,18}, dmg = 28, solo = 14, adv = -8, pt = {0} },
+  { starter = "MK", follow = "kazekiri_HK", kind = "special", t = {5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20}, dmg = 29, solo = 14, adv = -8, pt = {0} },
+  { starter = "MK", follow = "raida_MP", kind = "special", t = {5,6,7,8,9,10,11,12,13,14,15,16,17,18,20}, dmg = 37, solo = 14, adv = -8, pt = {0} },
+  { starter = "MK", follow = "kazekiri_LK", kind = "special", t = {5,7,9,11,13,15,17,19,6,8,10,12,14,16,18,20}, dmg = 28, solo = 14, adv = -8, pt = {0} },
+  { starter = "MK", follow = "raida_LP", kind = "special", t = {5,7,9,11,13,15,17,6,8,10,12,14,16,18}, dmg = 36, solo = 14, adv = -8, pt = {0} },
+  { starter = "MK", follow = "tsumuji_EXK", kind = "special", t = {5,7,9,11,13,15,17,19,6,8,10,12,14,16,18,20}, dmg = 40, solo = 14, adv = -8, pt = {0} },
+  { starter = "MK", follow = "kazekiri_EXK", kind = "special", t = {5,7,9,11,13,15,17,19,6,8,10,12,14,16,18,20}, dmg = 35, solo = 14, adv = -8, pt = {0} },
+}

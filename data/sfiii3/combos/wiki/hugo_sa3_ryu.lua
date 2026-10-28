@@ -1,0 +1,21 @@
+-- generado por tools/wiki_combo_lab.lua (hugo_sa3_ryu): combos de la wiki verificados en emulador
+return {
+  { text = "giant_palm_bomber:HP, giant_palm_bomber:LP xx SA", ok = false, d = 45, sa = 3, dmg = 24, hits = 1, done = 1, t = {0}, win = {1}, pre = 0 },
+  { text = "2LP > 2LP xx SA", ok = true, d = 42, sa = 3, dmg = 60, hits = 7, done = 3, t = {0,11,21}, win = {1,14,8}, pre = 0 },
+  { text = "giant_palm_bomber:HP, giant_palm_bomber:LP xx SA", ok = false, d = 50, sa = 3, dmg = 40, hits = 2, done = 2, t = {0,88}, win = {1,28}, pre = 0 },
+  { text = "giant_palm_bomber:EXP, shootdown_backbreaker:HK xx SA", ok = false, d = 60, sa = 3, dmg = 17, hits = 1, done = 1, t = {0}, win = {1}, pre = 0 },
+  { text = "giant_palm_bomber:EXP, monster_lariat:HK xx SA", ok = false, d = 60, sa = 3, dmg = 17, hits = 1, done = 1, t = {0}, win = {1}, pre = 0 },
+  { text = "giant_palm_bomber:HP, giant_palm_bomber:MP, monster_lariat:HK xx SA", ok = false, d = 50, sa = 3, dmg = 42, hits = 2, done = 2, t = {0,77}, win = {1,51}, pre = 0 },
+  { text = "giant_palm_bomber:HP, giant_palm_bomber:MP, monster_lariat:MK xx SA", ok = false, d = 50, sa = 3, dmg = 24, hits = 1, done = 1, t = {0}, win = {1}, pre = 0 },
+  { text = "giant_palm_bomber:EXP, monster_lariat:MK xx SA", ok = false, d = 60, sa = 3, dmg = 40, hits = 2, done = 2, t = {0,69}, win = {1,66}, pre = 0 },
+  { text = "2MK xx SA", ok = false, d = 55, sa = 3, dmg = 14, hits = 1, done = 1, t = {0}, win = {1}, pre = 0 },
+  { text = "cl.HP xx SA", ok = false, d = 42, sa = 3, dmg = 24, hits = 1, done = 1, t = {0}, win = {1}, pre = 0 },
+  { text = "cl.MP xx SA", ok = false, d = 42, sa = 3, dmg = 17, hits = 1, done = 1, t = {0}, win = {1}, pre = 0 },
+  { text = "cl.MK xx SA", ok = false, d = 42, sa = 3, dmg = 16, hits = 2, done = 1, t = {0}, win = {1}, pre = 0 },
+  { text = "2MP xx SA", ok = false, d = 45, sa = 3, dmg = 13, hits = 1, done = 1, t = {0}, win = {1}, pre = 0 },
+  { text = "2LK > 2LK xx SA", ok = false, d = 45, sa = 3, dmg = 5, hits = 1, done = 1, t = {0}, win = {1}, pre = 0 },
+  { text = "2LK > 2LP > 2LK xx SA", ok = false, d = 42, sa = 3, dmg = 5, hits = 1, done = 1, t = {0}, win = {1}, pre = 0 },
+  { text = "UOH, SA", ok = false, d = 45, sa = 3, dmg = 5, hits = 1, done = 1, t = {0}, win = {1}, pre = 0 },
+  { text = "2HP xx SA", ok = false, d = 45, sa = 3, dmg = 16, hits = 1, done = 1, t = {0}, win = {1}, pre = 0 },
+  { text = "5MP xx SA", ok = false, d = 60, sa = 3, dmg = 17, hits = 1, done = 1, t = {0}, win = {1}, pre = 0 },
+}

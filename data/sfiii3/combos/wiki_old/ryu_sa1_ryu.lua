@@ -1,0 +1,16 @@
+-- generado por tools/wiki_combo_lab.lua (ryu_sa1_ryu): combos de la wiki verificados en emulador
+return {
+  { text = "cl.MP xx shoryuken:HP", ok = true, d = 42, sa = 1, dmg = 39, hits = 2, done = 2, t = {0,10}, win = {1,12}, pre = 0 },
+  { text = "cl.HP xx shoryuken:HP", ok = true, d = 42, sa = 1, dmg = 41, hits = 2, done = 2, t = {0,10}, win = {1,13}, pre = 0 },
+  { text = "2MK xx tatsumaki:HK", ok = true, d = 60, sa = 1, dmg = 34, hits = 2, done = 2, t = {0,9}, win = {1,5}, pre = 0 },
+  { text = "2MK xx hadouken:HP", ok = true, d = 60, sa = 1, dmg = 19, hits = 2, done = 2, t = {0,15}, win = {1,6}, pre = 0 },
+  { text = "cl.MK xx joudan:LK", ok = true, d = 42, sa = 1, dmg = 33, hits = 2, done = 2, t = {0,10}, win = {1,12}, pre = 0 },
+  { text = "2MK xx joudan:LK", ok = true, d = 60, sa = 1, dmg = 26, hits = 2, done = 2, t = {0,12}, win = {1,12}, pre = 0 },
+  { text = "cl.MP xx hadouken:LP xx SA", ok = true, d = 42, sa = 1, dmg = 35, hits = 7, done = 3, t = {0,10,26}, win = {1,12,5}, pre = 0 },
+  { text = "cl.HP xx shoryuken:LP xx SA", ok = false, d = 42, sa = 1, dmg = 13, hits = 2, done = 2, t = {0,10}, win = {1,13}, pre = 0 },
+  { text = "2MK xx shoryuken:LP xx SA", ok = false, d = 55, sa = 1, dmg = 0, hits = 0, done = 0, t = {}, win = {}, pre = 0 },
+  { text = "2MP xx hadouken:LP xx SA", ok = true, d = 55, sa = 1, dmg = 49, hits = 7, done = 3, t = {0,8,26}, win = {1,7,5}, pre = 0 },
+  { text = "2LK > 2LP > 2LK xx SA", ok = true, d = 45, sa = 1, dmg = 47, hits = 8, done = 4, t = {0,11,22,33}, win = {1,11,10,7}, pre = 0 },
+  { text = "2LK > 2LK xx SA", ok = true, d = 45, sa = 1, dmg = 46, hits = 7, done = 3, t = {0,10,21}, win = {1,10,8}, pre = 0 },
+  { text = "2MK xx SA", ok = true, d = 60, sa = 1, dmg = 44, hits = 6, done = 2, t = {0,10}, win = {1,8}, pre = 0 },
+}

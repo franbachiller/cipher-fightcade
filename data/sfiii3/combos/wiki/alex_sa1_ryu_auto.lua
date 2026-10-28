@@ -1,0 +1,21 @@
+-- generado por tools/wiki_combo_lab.lua (alex_sa1_ryu_auto): combos de la wiki verificados en emulador
+return {
+  { text = "cl.MK xx flash_chop:LP", ok = true, d = 42, sa = 1, dmg = 31, hits = 2, done = 2, t = {0,11}, win = {1,14}, pre = 0 },
+  { text = "5MP xx flash_chop:LP", ok = true, d = 60, sa = 1, dmg = 30, hits = 2, done = 2, t = {0,10}, win = {1,13}, pre = 0 },
+  { text = "flash_chop:MP, cl.MK xx flash_chop:LP", ok = false, d = 60, sa = 1, dmg = 16, hits = 1, done = 1, t = {0}, win = {1}, pre = 0 },
+  { text = "5HP, cl.MK xx flash_chop:LP", ok = false, d = 60, sa = 1, dmg = 21, hits = 1, done = 1, t = {0}, win = {1}, pre = 0 },
+  { text = "flash_chop:MP, power_bomb:HP", ok = false, d = 60, sa = 1, dmg = 16, hits = 1, done = 1, t = {0}, win = {1}, pre = 0 },
+  { text = "5HP, power_bomb:HP", ok = false, d = 60, sa = 1, dmg = 21, hits = 1, done = 1, t = {0}, win = {1}, pre = 0 },
+  { text = "flash_chop:MP, 2HK", ok = false, d = 60, sa = 1, dmg = 16, hits = 1, done = 1, t = {0}, win = {1}, pre = 0 },
+  { text = "5HP, 2HK", ok = false, d = 60, sa = 1, dmg = 21, hits = 1, done = 1, t = {0}, win = {1}, pre = 0 },
+  { text = "flash_chop:MP, 4HP", ok = false, d = 60, sa = 1, dmg = 16, hits = 1, done = 1, t = {0}, win = {1}, pre = 0 },
+  { text = "5HP, 4HP", ok = false, d = 60, sa = 1, dmg = 21, hits = 1, done = 1, t = {0}, win = {1}, pre = 0 },
+  { text = "2HP, air_knee_smash:HK", ok = false, d = 60, sa = 1, dmg = 18, hits = 2, done = 1, t = {0}, win = {1}, pre = 0 },
+  { text = "2HP, 6HP", ok = false, d = 60, sa = 1, dmg = 18, hits = 2, done = 1, t = {0}, win = {1}, pre = 0 },
+  { text = "cl.MK xx flash_chop:EXP", ok = true, d = 42, sa = 1, dmg = 41, hits = 3, done = 2, t = {0,12}, win = {1,16}, pre = 0 },
+  { text = "5MP xx flash_chop:EXP", ok = true, d = 60, sa = 1, dmg = 40, hits = 3, done = 2, t = {0,10}, win = {1,14}, pre = 0 },
+  { text = "flash_chop:MP, slash_elbow:EXK", ok = true, d = 60, sa = 1, dmg = 41, hits = 3, done = 2, t = {60,106}, win = {1,6}, pre = 60 },
+  { text = "5HP, slash_elbow:EXK", ok = false, d = 60, sa = 1, dmg = 21, hits = 1, done = 1, t = {60}, win = {1}, pre = 60 },
+  { text = "5MP xx air_knee_smash:EXK", ok = true, d = 60, sa = 1, dmg = 34, hits = 2, done = 2, t = {0,10}, win = {1,14}, pre = 0 },
+  { text = "2LK, 2HK", ok = false, d = 60, sa = 1, dmg = 4, hits = 1, done = 1, t = {0}, win = {1}, pre = 0 },
+}

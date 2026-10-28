@@ -1,0 +1,20 @@
+-- generado por tools/wiki_combo_lab.lua (urien_sa3_ryu): combos de la wiki verificados en emulador
+return {
+  { text = "2LP > 2LP xx dangerous_headbutt:LP xx SA", ok = false, d = 42, sa = 3, dmg = 20, hits = 3, done = 3, t = {60,69,81}, win = {1,10,9}, pre = 60 },
+  { text = "1HP xx chariot_tackle:MK xx SA", ok = false, d = 50, sa = 3, dmg = 15, hits = 2, done = 1, t = {60}, win = {1}, pre = 60 },
+  { text = "1HP xx dangerous_headbutt:MP xx SA", ok = false, d = 50, sa = 3, dmg = 15, hits = 2, done = 1, t = {60}, win = {1}, pre = 60 },
+  { text = "1HP xx dangerous_headbutt:EXP, chariot_tackle:MK xx SA", ok = false, d = 50, sa = 3, dmg = 39, hits = 4, done = 3, t = {60,75,131}, win = {1,13,4}, pre = 60 },
+  { text = "1HP xx dangerous_headbutt:EXP, dangerous_headbutt:MP xx SA", ok = false, d = 50, sa = 3, dmg = 38, hits = 4, done = 3, t = {60,75,138}, win = {1,13,13}, pre = 60 },
+  { text = "5MP xx dangerous_headbutt:EXP, metallic_sphere:MP, chariot_tackle:MK xx SA", ok = false, d = 55, sa = 3, dmg = 31, hits = 3, done = 3, t = {60,67,112}, win = {1,6,3}, pre = 60 },
+  { text = "2MK xx SA", ok = false, d = 55, sa = 3, dmg = 10, hits = 1, done = 1, t = {0}, win = {1}, pre = 0 },
+  { text = "cl.HP xx SA", ok = false, d = 42, sa = 3, dmg = 27, hits = 4, done = 1, t = {0}, win = {1}, pre = 0 },
+  { text = "cl.MP xx SA", ok = false, d = 42, sa = 3, dmg = 11, hits = 1, done = 1, t = {0}, win = {1}, pre = 0 },
+  { text = "cl.MK xx SA", ok = false, d = 42, sa = 3, dmg = 21, hits = 4, done = 1, t = {0}, win = {1}, pre = 0 },
+  { text = "2MP xx SA", ok = false, d = 45, sa = 3, dmg = 8, hits = 1, done = 1, t = {0}, win = {1}, pre = 0 },
+  { text = "2LK > 2LK xx SA", ok = false, d = 45, sa = 3, dmg = 2, hits = 1, done = 1, t = {0}, win = {1}, pre = 0 },
+  { text = "2LK > 2LP > 2LK xx SA", ok = false, d = 42, sa = 3, dmg = 2, hits = 1, done = 1, t = {0}, win = {1}, pre = 0 },
+  { text = "2LP > 2LP xx SA", ok = false, d = 42, sa = 3, dmg = 4, hits = 2, done = 2, t = {0,9}, win = {1,10}, pre = 0 },
+  { text = "UOH, SA", ok = false, d = 45, sa = 3, dmg = 8, hits = 2, done = 1, t = {0}, win = {1}, pre = 0 },
+  { text = "2HP xx SA", ok = false, d = 45, sa = 3, dmg = 15, hits = 2, done = 1, t = {0}, win = {1}, pre = 0 },
+  { text = "5MP xx SA", ok = false, d = 60, sa = 3, dmg = 11, hits = 1, done = 1, t = {0}, win = {1}, pre = 0 },
+}

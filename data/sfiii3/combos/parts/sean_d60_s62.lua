@@ -1,0 +1,15 @@
+return {
+  { starter = "d_LK", follow = "ryuubikyaku_LK", kind = "special", t = {15,16}, dmg = 5, solo = 2, adv = 0, pt = {0} },
+  { starter = "d_LK", follow = "tornado_LK", kind = "special", t = {15,16}, dmg = 5, solo = 2, adv = 0, pt = {0} },
+  { starter = "d_LK", follow = "dragon_smash_LP", kind = "special", t = {5,7,9,11,13,15,6,8,10,12,14,16}, dmg = 20, solo = 2, adv = 0, pt = {0} },
+  { starter = "d_LK", follow = "dragon_smash_MP", kind = "special", t = {5,6,7,8,9,10,11,12,13}, dmg = 20, solo = 2, adv = 0, pt = {0} },
+  { starter = "d_LK", follow = "shoryu_cannon", kind = "sa2", t = {5,7,9,11,13,15,17,6,8,10,12,14,16}, dmg = 32, solo = 2, adv = 0, pt = {0} },
+  { starter = "d_LK", follow = "roll_LP", kind = "special", t = {15,17,16}, dmg = 4, solo = 2, adv = 0, pt = {0} },
+  { starter = "d_LK", follow = "dragon_smash_EXP", kind = "special", t = {5,7,9,11,13,6,8,10,12}, dmg = 27, solo = 2, adv = 0, pt = {0} },
+  { starter = "d_LK", follow = "sean_tackle_LP", kind = "special", t = {15,17,16}, dmg = 4, solo = 2, adv = 0, pt = {0} },
+  { starter = "cl_HK", follow = "tornado_HK", kind = "special", t = {5,6,7,8,9,10,11,12,13,14,15,16,17}, dmg = 43, solo = 21, adv = -6, pt = {0} },
+  { starter = "cl_HK", follow = "tornado_MK", kind = "special", t = {5,6,7,8,9,10,11,12,13,14,15,16,17,18,19}, dmg = 39, solo = 21, adv = -6, pt = {0} },
+  { starter = "cl_HK", follow = "tornado_LK", kind = "special", t = {5,7,9,11,13,15,17,19,6,8,10,12,14,16,18,20}, dmg = 33, solo = 21, adv = -6, pt = {0} },
+  { starter = "cl_HK", follow = "shoryu_cannon", kind = "sa2", t = {7,9,11,13,15,17,19,6,8,10,12,14,16,18,20}, dmg = 46, solo = 21, adv = -6, pt = {0} },
+  { starter = "cl_HK", follow = "tornado_EXK", kind = "special", t = {5,7,9,11,13,15,17,19,6,8,10,12,14,16,18,20}, dmg = 41, solo = 21, adv = -6, pt = {0} },
+}

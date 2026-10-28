@@ -1,0 +1,21 @@
+-- generado por tools/juggle_lab.lua (dudley_sa1_ryu_juggle): combos largos / juggles verificados en emulador
+return {
+  { text = "5HK xx jet_upper:HP xx SA", ok = true, d = 60, sa = 1, dmg = 66, hits = 14, done = 3, t = {0,11,32}, win = {1,13,12}, pre = 0, jug = 1 },
+  { text = "6MK xx jet_upper:HP xx SA", ok = true, d = 55, sa = 1, dmg = 67, hits = 14, done = 3, t = {0,13,33}, win = {1,7,10}, pre = 0, jug = 1 },
+  { text = "6MK xx machinegun_blow:LP xx SA", ok = true, d = 60, sa = 1, dmg = 69, hits = 13, done = 3, t = {0,7,25}, win = {1,5,14}, pre = 0, jug = 1 },
+  { text = "2MP xx jet_upper:LP xx SA", ok = true, d = 50, sa = 1, dmg = 65, hits = 13, done = 3, t = {0,9,29}, win = {1,11,10}, pre = 0, jug = 1 },
+  { text = "jet_upper:MP xx SA", ok = true, d = 50, sa = 1, dmg = 57, hits = 12, done = 2, t = {0,12}, win = {1,13}, pre = 0, jug = 1 },
+  { text = "jet_upper:MP, SA", ok = true, d = 50, sa = 1, dmg = 62, hits = 12, done = 2, t = {0,25}, win = {1,2}, pre = 0, jug = 1 },
+  { text = "cross_counter:EXP xx SA", ok = true, d = 50, sa = 1, dmg = 55, hits = 12, done = 2, t = {0,12}, win = {1,14}, pre = 0, jug = 1 },
+  { text = "punch_and_cross:HP xx SA", ok = true, d = 50, sa = 1, dmg = 64, hits = 12, done = 2, t = {0,21}, win = {1,13}, pre = 0, jug = 1 },
+  { text = "ducking:MK xx SA", ok = true, d = 50, sa = 1, dmg = 66, hits = 12, done = 2, t = {0,26}, win = {1,2}, pre = 0, jug = 1 },
+  { text = "ducking:MK, SA", ok = true, d = 50, sa = 1, dmg = 66, hits = 11, done = 2, t = {0,27}, win = {1,1}, pre = 0, jug = 1 },
+  { text = "jet_upper:EXP xx SA", ok = true, d = 50, sa = 1, dmg = 57, hits = 12, done = 2, t = {0,12}, win = {1,13}, pre = 0, jug = 1 },
+  { text = "jet_upper:EXP, SA", ok = true, d = 50, sa = 1, dmg = 62, hits = 12, done = 2, t = {0,25}, win = {1,2}, pre = 0, jug = 1 },
+  { text = "cross_counter:MP xx SA", ok = true, d = 50, sa = 1, dmg = 55, hits = 12, done = 2, t = {0,12}, win = {1,14}, pre = 0, jug = 1 },
+  { text = "machinegun_blow:HP xx SA", ok = true, d = 50, sa = 1, dmg = 64, hits = 12, done = 2, t = {0,21}, win = {1,13}, pre = 0, jug = 1 },
+  { text = "machinegun_blow:HP, SA", ok = true, d = 50, sa = 1, dmg = 72, hits = 12, done = 2, t = {0,83}, win = {1,24}, pre = 0, jug = 1 },
+  { text = "machinegun_blow:HP, jet_upper:LP", ok = true, d = 50, sa = 1, dmg = 40, hits = 2, done = 2, t = {0,79}, win = {1,2}, pre = 0, jug = 1 },
+  { text = "machinegun_blow:HP, jet_upper:MP", ok = true, d = 50, sa = 1, dmg = 43, hits = 2, done = 2, t = {0,83}, win = {1,11}, pre = 0, jug = 1 },
+  { text = "machinegun_blow:HP, jet_upper:HP", ok = true, d = 50, sa = 1, dmg = 40, hits = 2, done = 2, t = {0,83}, win = {1,15}, pre = 0, jug = 1 },
+}

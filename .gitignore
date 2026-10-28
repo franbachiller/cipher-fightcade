@@ -1,0 +1,7 @@
+third_party/
+logs/
+*.log
+__pycache__/
+*.pyc
+data/umk3/ghidra/
+data/sfiii3/wiki/
